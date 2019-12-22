@@ -1,0 +1,20 @@
+{
+    "men1": 
+        {
+            "name": "men1",
+            "image": "men1.jpg",
+            "age": 41,
+            "job": "freelance",
+            "tag": "anal",
+            "detail": "i love travel."
+        },
+    "men2": 
+        {
+            "name": "men2",
+            "image": "men2.jpg",
+            "age": 11,
+            "job": "freelance",
+            "tag": "normal",
+            "detail": "i travel."
+        },
+}
