@@ -33,7 +33,7 @@ class ProfileScreen extends React.Component {
           probably will too.
         </Text>
         <Divider style={styles.divider} />
-        <Text style={styles.desc}>tag</Text>
+        <Text style={styles.desc}>性的嗜好</Text>
         <Text style={styles.desc}>
           {tag}
         </Text>

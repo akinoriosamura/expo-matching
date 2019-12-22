@@ -11,13 +11,13 @@ export const HomeScreenPics = shuffleArray([
     pic: require('../assets/images/women/women2.jpg'),
     title: 'Joanna, 19',
     caption: '2 miles away',
-    tag: 'バイト'
+    tag: '噛む'
   },
   {
     pic: require('../assets/images/women/women3.jpg'),
     title: 'Charlie, 32',
     caption: '24 miles away',
-    tag: 'バイト'
+    tag: '噛む'
   },
   {
     pic: require('../assets/images/women/women4.jpg'),
